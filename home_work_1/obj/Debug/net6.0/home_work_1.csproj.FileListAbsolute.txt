@@ -1,0 +1,16 @@
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/bin/Debug/net6.0/home_work_1
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/bin/Debug/net6.0/home_work_1.deps.json
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/bin/Debug/net6.0/home_work_1.runtimeconfig.json
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/bin/Debug/net6.0/home_work_1.dll
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/bin/Debug/net6.0/ref/home_work_1.dll
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/bin/Debug/net6.0/home_work_1.pdb
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/home_work_1.GlobalUsings.g.cs
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/home_work_1.csproj.AssemblyReference.cache
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/home_work_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/home_work_1.AssemblyInfoInputs.cache
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/home_work_1.AssemblyInfo.cs
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/home_work_1.csproj.CoreCompileInputs.cache
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/home_work_1.dll
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/ref/home_work_1.dll
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/home_work_1.pdb
+/Users/daryakuznetsova/Desktop/GB Homeworks/home_work_1/home_work_1/obj/Debug/net6.0/home_work_1.genruntimeconfig.cache
