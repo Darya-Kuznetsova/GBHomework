@@ -1,0 +1,11 @@
+html{
+    font-family: 'Source Sans Pro', sans-serif;
+    color:grey;
+    
+}
+:any-link{
+    color: palevioletred;
+}
+ul{
+    color:cornflowerblue
+}
